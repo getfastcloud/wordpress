@@ -1,0 +1,35 @@
+# Vue / JS source files
+src/
+vite.config.js
+vite.config.ts
+webpack.mix.js
+
+package.json
+package-lock.json
+tsconfig.json
+tsconfig.*.json
+.babelrc
+.browserslistrc
+postcss.config.js
+tailwind.config.js
+
+# IDE & OS noise
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dev-only config
+.editorconfig
+.eslintrc*
+.eslintignore
+.prettierrc*
+.stylelintrc*
+
+# Test files
+tests/
+cypress/
+jest.config.*
+
+# CI/CD (workflow stays in private repo only)
+.github/

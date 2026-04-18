@@ -1,0 +1,18 @@
+{
+  "_vendor-Bfa4kjgY.js": {
+    "file": "vendor-Bfa4kjgY.js",
+    "name": "vendor"
+  },
+  "src/main.ts": {
+    "file": "main-CnQnqFu8.js",
+    "name": "main",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "imports": [
+      "_vendor-Bfa4kjgY.js"
+    ],
+    "css": [
+      "main-Bos00k_r.css"
+    ]
+  }
+}
