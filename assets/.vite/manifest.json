@@ -1,0 +1,25 @@
+{
+  "_vendor-CiT1cmKm.js": {
+    "file": "vendor-CiT1cmKm.js",
+    "name": "vendor"
+  },
+  "src/img/logo.svg": {
+    "file": "logo-BXXaTIKe.svg",
+    "src": "src/img/logo.svg"
+  },
+  "src/main.ts": {
+    "file": "main-BwTcsatY.js",
+    "name": "main",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "imports": [
+      "_vendor-CiT1cmKm.js"
+    ],
+    "css": [
+      "main-BWrqMrpu.css"
+    ],
+    "assets": [
+      "logo-BXXaTIKe.svg"
+    ]
+  }
+}

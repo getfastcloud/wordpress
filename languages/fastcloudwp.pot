@@ -1,0 +1,316 @@
+# Copyright (C) 2026 FastCloud WP
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: FastCloud – Offload & Serve WordPress Media 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fastcloudwp\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-18T13:26:38+07:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: fastcloudwp\n"
+
+#. Plugin Name of the plugin
+#: fastcloudwp.php:3
+msgid "FastCloud – Offload & Serve WordPress Media"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: fastcloudwp.php:4
+msgid "https://wordpress.org/plugins/fastcloudwp/"
+msgstr ""
+
+#. Description of the plugin
+#: fastcloudwp.php:5
+msgid "Automatically offload your WordPress media library to FastCloud. Reduces server load, frees up disk space, and keeps your site fast."
+msgstr ""
+
+#. Author of the plugin
+#: fastcloudwp.php:9
+msgid "FastCloud WP"
+msgstr ""
+
+#. Author URI of the plugin
+#: fastcloudwp.php:10
+msgid "https://fastcloudwp.com/"
+msgstr ""
+
+#: includes/class-rest.php:55
+msgid "Missing Site Key"
+msgstr ""
+
+#: includes/class-rest.php:67
+msgid "An unexpected error occurred, please try again."
+msgstr ""
+
+#: includes/class-rest.php:74
+msgid "Invalid Site Key"
+msgstr ""
+
+#: includes/class-rest.php:144
+msgid "Missing authorization."
+msgstr ""
+
+#: includes/class-rest.php:156
+msgid "Invalid authorization."
+msgstr ""
+
+#: includes/class-rest.php:169
+msgid "Missing attachment_id."
+msgstr ""
+
+#: includes/class-rest.php:185
+msgid "Attachment marked as offloaded."
+msgstr ""
+
+#: src/components/Nav.vue
+msgid "Dashboard"
+msgstr ""
+
+#: src/components/Nav.vue
+msgid "Settings"
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "%d local copies deleted\u2026"
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "Local copies freed"
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "of"
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "files freed"
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "Auto-cleaning"
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "Active"
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "Disabled"
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "All offloaded media has been removed from your server. Enjoy your fast website."
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "Local copies have not been freed and need manual action from you."
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "Delete Local Copies"
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "Something went wrong while freeing local copies."
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "Close"
+msgstr ""
+
+#: src/components/dashboard/FreeSpace.vue
+msgid "Cancel"
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "%d files scheduled to offload\u2026"
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "%d pending offload"
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "Offloaded on FastCloud"
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "files offloaded"
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "Auto-offload"
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "%d files scheduled"
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "All of your media files have been offloaded. Enjoy your fast website."
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "Files have not been offloaded and need manual action from you."
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "All files have been queued for offloading."
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "Schedule Offload"
+msgstr ""
+
+#: src/components/dashboard/Offload.vue
+msgid "Something went wrong while sending files to FastCloud."
+msgstr ""
+
+#: src/components/dashboard/RecentActivity.vue
+msgid "Recent Activity"
+msgstr ""
+
+#: src/components/ui/Input.vue
+msgid "Required"
+msgstr ""
+
+#: src/pages/Connect.vue
+msgid "Connect your website"
+msgstr ""
+
+#: src/pages/Connect.vue
+msgid "Enter your FastCloud WP site key to enable remote media storage and optimization."
+msgstr ""
+
+#: src/pages/Connect.vue
+msgid "Site Key"
+msgstr ""
+
+#: src/pages/Connect.vue
+msgid "Connect Website"
+msgstr ""
+
+#: src/pages/Connect.vue
+msgid "No account yet? Sign up for free at"
+msgstr ""
+
+#: src/pages/Dashboard.vue
+msgid "%d files couldn't be offloaded — not enough storage remaining."
+msgstr ""
+
+#: src/pages/Dashboard.vue
+msgid "Connected"
+msgstr ""
+
+#: src/pages/Dashboard.vue
+msgid "Disconnected"
+msgstr ""
+
+#: src/pages/Dashboard.vue
+msgid "Site ID: %s"
+msgstr ""
+
+#: src/pages/Dashboard.vue
+msgid "Enable auto offload"
+msgstr ""
+
+#: src/pages/Dashboard.vue
+msgid "Auto-offload to FastCloud"
+msgstr ""
+
+#: src/pages/Dashboard.vue
+msgid "Total media"
+msgstr ""
+
+#: src/pages/Dashboard.vue
+msgid "Total Media files in the library"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Are you sure you want to disconnect FastCloud?"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Storage Usage"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "How much of your FastCloud storage is currently used across all your sites."
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Plugin Configuration"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Enable FastCloud WP"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "When enabled, media URLs are rewritten to serve files from FastCloud. When disabled, all media are served locally."
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Enable Automatic Offloading"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Automatically upload new media files to FastCloud as soon as they are added to the media library."
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Remove Local Copies After Offload"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Free up server disk space by deleting local files once they've been safely stored on FastCloud."
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Enable local delete"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Your key connects this site to FastCloud WP. Read-only."
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Copied"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Copy"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Danger Zone"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Remove original image from server"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "The original full-size image will be removed from your server after being offloaded to FastCloud. Enabling this may break image editing, regeneration, and third-party plugins such as Imagify or ShortPixel."
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Remove original media"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Disconnect Website"
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "If local media files have been removed, disconnecting FastCloud may cause broken URLs or missing images unless those files are restored locally. Your files on FastCloud are not deleted."
+msgstr ""
+
+#: src/pages/Settings.vue
+msgid "Disconnect"
+msgstr ""
