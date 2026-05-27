@@ -1,0 +1,25 @@
+{
+  "_vendor-BXXS6B68.js": {
+    "file": "vendor-BXXS6B68.js",
+    "name": "vendor"
+  },
+  "src/img/logo.svg": {
+    "file": "logo-BXXaTIKe.svg",
+    "src": "src/img/logo.svg"
+  },
+  "src/main.ts": {
+    "file": "main-Bl1a04WD.js",
+    "name": "main",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "imports": [
+      "_vendor-BXXS6B68.js"
+    ],
+    "css": [
+      "main-C6_oSbtP.css"
+    ],
+    "assets": [
+      "logo-BXXaTIKe.svg"
+    ]
+  }
+}
