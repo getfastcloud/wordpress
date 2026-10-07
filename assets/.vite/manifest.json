@@ -1,0 +1,30 @@
+{
+  "_vendor-BXXS6B68.js": {
+    "file": "vendor-BXXS6B68.js",
+    "name": "vendor"
+  },
+  "src/img/logo.svg": {
+    "file": "logo-BXXaTIKe.svg",
+    "src": "src/img/logo.svg"
+  },
+  "src/img/mwio-logo.svg": {
+    "file": "mwio-logo-BP7qMXrq.svg",
+    "src": "src/img/mwio-logo.svg"
+  },
+  "src/main.ts": {
+    "file": "main-WCdcU8-B.js",
+    "name": "main",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "imports": [
+      "_vendor-BXXS6B68.js"
+    ],
+    "css": [
+      "main-DEjS3OTA.css"
+    ],
+    "assets": [
+      "logo-BXXaTIKe.svg",
+      "mwio-logo-BP7qMXrq.svg"
+    ]
+  }
+}
